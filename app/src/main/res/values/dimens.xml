@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Player list item view -->
+    <dimen name="search_result_item_image_size">100dp</dimen>
+    <dimen name="search_result_item_image_margin">8dp</dimen>
+    <dimen name="search_result_item_view_elevation">5dp</dimen>
+    <dimen name="search_result_item_view_margin">5dp</dimen>
+    <dimen name="search_result_item_title_text_size">25sp</dimen>
+    <dimen name="search_result_item_title_margin_start">10dp</dimen>
+    <dimen name="search_result_item_title_margin_end">5dp</dimen>
+    <dimen name="search_result_item_margin_end">5dp</dimen>
+    <dimen name="search_result_item_margin_top">2dp</dimen>
+    <dimen name="search_result_item_number_text_size">12sp</dimen>
+</resources>
